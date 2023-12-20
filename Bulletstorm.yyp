@@ -36,8 +36,11 @@
   "resources": [
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"wall","path":"objects/wall/wall.yy",},},
+    {"id":{"name":"BULLETBROTHA","path":"sprites/BULLETBROTHA/BULLETBROTHA.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"Achtergrond","path":"sprites/Achtergrond/Achtergrond.yy",},},
+    {"id":{"name":"bullet","path":"objects/bullet/bullet.yy",},},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"mainchar","path":"objects/mainchar/mainchar.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
