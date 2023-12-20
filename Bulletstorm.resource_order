@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Restart","order":5,"path":"objects/Restart/Restart.yy",},
+    {"name":"Spawner","order":6,"path":"objects/Spawner/Spawner.yy",},
     {"name":"BULLETBROTHA","order":3,"path":"sprites/BULLETBROTHA/BULLETBROTHA.yy",},
     {"name":"Sprite3","order":1,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"Achtergrond","order":1,"path":"sprites/Achtergrond/Achtergrond.yy",},
