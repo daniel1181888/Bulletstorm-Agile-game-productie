@@ -17,8 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"Enemy1","order":4,"path":"sprites/Enemy1/Enemy1.yy",},
-    {"name":"Enemyzombie","order":5,"path":"objects/Enemyzombie/Enemyzombie.yy",},
+    {"name":"Restart","order":5,"path":"objects/Restart/Restart.yy",},
     {"name":"BULLETBROTHA","order":3,"path":"sprites/BULLETBROTHA/BULLETBROTHA.yy",},
     {"name":"Sprite3","order":1,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"Achtergrond","order":1,"path":"sprites/Achtergrond/Achtergrond.yy",},
