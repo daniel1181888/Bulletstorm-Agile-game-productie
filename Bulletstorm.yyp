@@ -35,6 +35,8 @@
   },
   "resources": [
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"Enemy1","path":"sprites/Enemy1/Enemy1.yy",},},
+    {"id":{"name":"Enemyzombie","path":"objects/Enemyzombie/Enemyzombie.yy",},},
     {"id":{"name":"wall","path":"objects/wall/wall.yy",},},
     {"id":{"name":"BULLETBROTHA","path":"sprites/BULLETBROTHA/BULLETBROTHA.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
