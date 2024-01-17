@@ -17,9 +17,11 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"GameoverRoom","order":2,"path":"rooms/GameoverRoom/GameoverRoom.yy",},
     {"name":"Restart","order":5,"path":"objects/Restart/Restart.yy",},
     {"name":"waterbaddd","order":4,"path":"sprites/waterbaddd/waterbaddd.yy",},
     {"name":"Spawner","order":6,"path":"objects/Spawner/Spawner.yy",},
+    {"name":"gameover","order":3,"path":"sprites/gameover/gameover.yy",},
     {"name":"water","order":7,"path":"objects/water/water.yy",},
     {"name":"BULLETBROTHA","order":3,"path":"sprites/BULLETBROTHA/BULLETBROTHA.yy",},
     {"name":"Sprite3","order":1,"path":"sprites/Sprite3/Sprite3.yy",},
