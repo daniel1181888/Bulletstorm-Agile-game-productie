@@ -24,6 +24,7 @@
     {"name":"BULLETBROTHA","order":3,"path":"sprites/BULLETBROTHA/BULLETBROTHA.yy",},
     {"name":"Sprite3","order":1,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"Achtergrond","order":1,"path":"sprites/Achtergrond/Achtergrond.yy",},
+    {"name":"Enemywalking","order":5,"path":"sprites/Enemywalking/Enemywalking.yy",},
     {"name":"bullet","order":4,"path":"objects/bullet/bullet.yy",},
     {"name":"Sprite4","order":2,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"mainchar","order":2,"path":"objects/mainchar/mainchar.yy",},

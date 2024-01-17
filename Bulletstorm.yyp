@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.4.0.84",
   },
   "resources": [
     {"id":{"name":"Restart","path":"objects/Restart/Restart.yy",},},
@@ -45,6 +45,7 @@
     {"id":{"name":"BULLETBROTHA","path":"sprites/BULLETBROTHA/BULLETBROTHA.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"Achtergrond","path":"sprites/Achtergrond/Achtergrond.yy",},},
+    {"id":{"name":"Enemywalking","path":"sprites/Enemywalking/Enemywalking.yy",},},
     {"id":{"name":"bullet","path":"objects/bullet/bullet.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"mainchar","path":"objects/mainchar/mainchar.yy",},},
@@ -53,7 +54,6 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
-  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
