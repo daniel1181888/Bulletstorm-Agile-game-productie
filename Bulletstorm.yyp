@@ -38,6 +38,7 @@
     {"id":{"name":"Restart","path":"objects/Restart/Restart.yy",},},
     {"id":{"name":"waterbaddd","path":"sprites/waterbaddd/waterbaddd.yy",},},
     {"id":{"name":"Spawner","path":"objects/Spawner/Spawner.yy",},},
+    {"id":{"name":"mainCHAR","path":"sprites/mainCHAR/mainCHAR.yy",},},
     {"id":{"name":"gameover","path":"sprites/gameover/gameover.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Enemy1","path":"sprites/Enemy1/Enemy1.yy",},},

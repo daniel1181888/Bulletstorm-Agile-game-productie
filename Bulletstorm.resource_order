@@ -21,6 +21,7 @@
     {"name":"Restart","order":5,"path":"objects/Restart/Restart.yy",},
     {"name":"waterbaddd","order":4,"path":"sprites/waterbaddd/waterbaddd.yy",},
     {"name":"Spawner","order":6,"path":"objects/Spawner/Spawner.yy",},
+    {"name":"mainCHAR","order":6,"path":"sprites/mainCHAR/mainCHAR.yy",},
     {"name":"gameover","order":3,"path":"sprites/gameover/gameover.yy",},
     {"name":"water","order":7,"path":"objects/water/water.yy",},
     {"name":"BULLETBROTHA","order":3,"path":"sprites/BULLETBROTHA/BULLETBROTHA.yy",},

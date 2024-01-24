@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite3",
-    "path": "sprites/Sprite3/Sprite3.yy",
+    "name": "mainCHAR",
+    "path": "sprites/mainCHAR/mainCHAR.yy",
   },
   "spriteMaskId": null,
   "visible": true,
